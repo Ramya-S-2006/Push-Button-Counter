@@ -12,6 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
+#OUTPUT <img width="1280" height="755" alt="Image" src="https://github.com/user-attachments/assets/7d433094-46a0-4bae-b96a-414287ca6969" />
 *DESCRIPTION*:
 This internship task involves building a digital push-button counter system using an Arduino Uno and a 16x2 LCD display. The objective is to count the number of times a button is pressed and display that count in real-time on the LCD screen. 
 The hardware setup includes a push button connected to a digital input pin on the Arduino, a potentiometer to adjust the LCD contrast, and a 16x2 LCD connected using digital pins 2 through 5 and control pins 11 and 12. The Arduino is programmed to detect each valid button press and increment a counter, which is then displayed on the LCD.
